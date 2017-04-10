@@ -1,0 +1,69 @@
+--------------CAMPAIGN--------------
+
+[Starter]
+Penguin
+- Wave. Speed boost on ice.
+- Brake. Reduce speed on ice. Allows possible small adjustements on straight ice.
+
+[World 2]
+Wolf
+- Sprint. Speed boost on snow.
+- Primal roar. Ray of sound in front of character. Slow targets caught for x seconds.
+
+[World 3]
+Frost Dragon
+- Fly. Higher height and snow-like movement anywhere. Last x seconds.
+- Frostball. Shoot projectil in front. Freeze target.
+
+[World 4]
+Fire Dragon
+- Fly. Higher height and snow-like movement anywhere. Last x seconds.
+- Fireball. Shoot projectil in front. Burn target.
+
+[World 1, final unlock]
+Psychic monkey
+- Blink x yards in front. For each x/100 yard in front, check height difference with previous position checked. If > threshold, stop blink at previous position checked. Adjust to new height after blink.
+- Rewind. Loop back character in time up to x seconds.
+
+--------------MULTIPLAYER--------------
+
+Elephant
+- Tanky passive.
+- Elephant trump boost. Complete speed stop on regular ice, faster speed boost on reverse.
+
+Kangaroo
+- jump. Falling-like movements for x seconds. Higher height.
+- Second life. x seconds after dying, able to control the baby kangaroo. x seconds invulnerability. Doesn't work if fell into water.
+
+Turtle
+- Shell. Toggle ability. On snow, become immobile but invulnerable. On ice, reduce damage taken but increase speed.
+- Slow speed on snow passive.
+
+Raptor (with egg)
+- Charge. Speed boost on snow/ice. Unit move forward for x seconds. Unit becomes uncontrollable for the duration.
+- Second life. x seconds after dying, able to control the baby raptor. x seconds invulnerability. Doesn't work if fell into water.
+
+Ghost
+- Invisibility. x seconds fading time. Auto aiming, chasing projectils/mobs stop following. Last x seconds.
+- Haunt. Haunt closest target.
+
+Demon
+- ???
+- Fire trail. Leave a trail of fire behind for x seconds, burning colliding targets.
+
+--------------BUFF/DEBUFF--------------
+
+Burning
+- Increase movement/attack speed for x seconds and damage unit for x hp per second.
+
+Frozen
+- Pause unit in place for x seconds.
+
+Stunned
+- Remove control of unit for x seconds.
+
+Slowed
+- Reduce movement/attack speed for x seconds.
+
+Haunted
+- Reduce speed of unit.

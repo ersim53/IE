@@ -1,0 +1,220 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6570 (ID=0x6759)
+    Vendor:   ATI
+    VRAM:     1008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\bolt.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\bolt.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\bolt.user.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\bolt.user.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\udpkit.common.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\udpkit.common.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\udpkit.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\udpkit.dll into Unity Child Domain
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\Mono.Nat.dll (this message is harmless)
+Loading C:\Ice Escape\Ice Escape 2_Data\Managed\Mono.Nat.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\System.dll (this message is harmless)
+desktop: 1280x1024 60Hz; virtual: 1280x1024 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.432933 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: aa90 -> priority: 1 
+Bolt starting with a simulation rate of 60 steps per second
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'BoltConsole'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'BoltPoll'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'BoltSend'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'BoltSceneLoader'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating Global Behaviour: 'NetworkCallbacks'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: socket created
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Binding physical socket using platform 'DotNetPlatform'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Socket bound to [EndPoint 0.0.0.0:50391 | 50391]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Physical socket bound to [EndPoint 0.0.0.0:50391 | 50391]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Fallback handler could not load library C:/Ice Escape/Ice Escape 2_Data/Mono/libc
+Fallback handler could not load library C:/Ice Escape/Ice Escape 2_Data/Mono/.\libc
+Fallback handler could not load library C:/Ice Escape/Ice Escape 2_Data/Mono/libc
+10/15/2016 11:45:23 PM: 169.254.123.40 0.0.0.0,169.254.123.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: 192.121.74.0 192.168.0.1,192.121.74.1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Could not resolve a possible LAN address by inspecting local network interfaces
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: physical socket started
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Connecting to [EndPoint 127.0.0.1:27000 | 9151314447111842168]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Connect to [EndPoint 127.0.0.1:27000 | 9151314447111842168] accepted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: Correct connection id #2 received from server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:45:23 PM: [EndPoint 127.0.0.1:27000 | 9151314447111842168] connected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Assigned id 2 from server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Assigned id 2 from server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Loading Bolt.SceneLoadState (World 1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+recv event [LogEvent Message=[EndPoint 127.0.0.1:50391 | 9151314447111865559] connected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Raising [LogEvent Message=[EndPoint 127.0.0.1:50391 | 9151314447111865559] connected]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.254000 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 827.
+Total: 3.824089 ms (FindLiveObjects: 0.141777 ms CreateObjectMapping: 0.046444 ms MarkObjects: 3.620222 ms  DeleteObjects: 0.008311 ms)
+
+Found 1 Scene Objects
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attached [Entity [NetworkId 0-0-0-1-0-0-0-2] DragonState] (Token: NULL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME FORWARD: 10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Created [Entity [NetworkId 0-0-0-1-0-0-0-2] DragonState] on [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Platform assembly: C:\Ice Escape\Ice Escape 2_Data\Managed\Mono.Security.dll (this message is harmless)
+FRAME RESET: 14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Only the owner and controller can modify: 'Stand'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attached [Entity [NetworkId 0-0-0-2-0-0-0-1] DragonState] (Token: NULL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Received [Entity [NetworkId 0-0-0-2-0-0-0-1] DragonState] from [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attached [Entity [NetworkId 0-0-0-1-0-0-0-1] MonsterState] (Token: NULL)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Received [Entity [NetworkId 0-0-0-1-0-0-0-1] MonsterState] from [Connection [EndPoint 127.0.0.1:27000 | 9151314447111842168]]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+FRAME RESET: -1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Only the owner and controller can modify: 'Stand'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Only the owner and controller can modify: 'Death'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Only the owner and controller can modify: 'Stand'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10/15/2016 11:46:59 PM: [EndPoint 127.0.0.1:27000 | 9151314447111842168] disconnected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-2-0-0-0-1] DragonState]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-1] MonsterState]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Detached [Entity [NetworkId 0-0-0-1-0-0-0-2] DragonState]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Behaviour not available in this dispatcher, ignoring call to Remove.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+UdpKit.UdpSocket
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
